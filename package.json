@@ -1,0 +1,12 @@
+{
+  "name": "animegirl",
+  "version": "1.0.0",
+  "description": "**Quark Shell** helps you create cross-platform (currently Mac-only, Windows version coming soon) menubar/tray app using HTML and JavaScript without writing any native code. Quark Shell exposes a JavaScript object called ``quark`` to provide system functions. **Quark Shell for Mac** is based on WebKit.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ln": "ln -s ./web/build app"
+  },
+  "author": "",
+  "license": "ISC"
+}
